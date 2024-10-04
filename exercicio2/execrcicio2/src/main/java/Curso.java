@@ -7,6 +7,6 @@
  *
  * @author leand_ud4dr0h
  */
-public class exercicio2 {
+public class Curso {
     
 }
